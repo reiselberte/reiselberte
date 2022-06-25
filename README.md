@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas
 - 🌱 Estou aprendendo Python e Banco Relacional
 - 👯 Estou procurando colaborar no cargo de estagiario
-- ⚡ Curiosidade: Experiencia em trabalho em equipe, basico em ingles, Conhecimento intermediário em Pacote Office
+- ⚡ Curiosidade: Experiencia em trabalho em equipe/HomeOffice, basico em ingles, Conhecimento intermediário em Pacote Office
 -->
 
 <img align= "left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=reiselberte&show_icons=true&theme=gruvbox"/>
