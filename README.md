@@ -1,28 +1,27 @@
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello I'm Elberte Reis  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60">
-</h1>
+<h1> Hi! My name is Elberte. </h1>
 
-<!--
+<div>
+  <a href="https://github.com/reiselberte">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo Python e Banco Relacional
-- 👯 Estou procurando colaborar no cargo de estagiario
-- ⚡ Curiosidade: Experiencia em trabalho em equipe/HomeOffice, basico em ingles, Conhecimento intermediário em Pacote Office
--->
-
-<img align= "left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=reiselberte&show_icons=true&theme=gruvbox"/>
-
-<img align= "left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reiselberte&layout=compact"/>
-
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
-<a href= "https://www.python.org/downloads"> <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-
-<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
-
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+ <br>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Python" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt= "MySQL" height="30" width="40" src= "https://pngimg.com/uploads/mysql/mysql_PNG23.png">
+  
+ 
+    
+</div>
+  
+  <a href="https://www.linkedin.com/in/elbertereis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 
