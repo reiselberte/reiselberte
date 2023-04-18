@@ -6,6 +6,9 @@ Analista de Dados SQL e apaixonado por tecnologia. Atualmente estudando análise
 - 💻 Atualmente eu trabalho como **Analista SQL** na PMS (**Prefeitura Municipal de Salvador**)
 - 💾 Meu objetivo é me tornar um **DBA Oracle**
 
+  Aqui no meu **GitHub** você encontrará coisas que fiz quando comecei a estudar até coisas á nível de produção, não tenho vergonha de deixar algumas         coisas aqui, pois essas coisas são essenciais pra me ajudar a lembrar de onde eu sair, o que eu consegui e onde eu posso chegar.
+  
+  Abaixo seguem alguma tecnologiais que trabalho no meu dia-a-dia.
 
 <img margin-top="0px" width ="60" heigth ="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  <img width="45" heigth ="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  <img width="100" heigth ="100" src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_445,h_250/f_auto,q_auto/v1656484625/hevo-learn/microsoft-power-bi-logo.png?_i=AA" />  <img width="45" heigth ="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
 
