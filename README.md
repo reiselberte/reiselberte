@@ -9,11 +9,11 @@ Analista de Dados SQL e apaixonado por tecnologia. Atualmente estudando análise
 
   <img margin-top="0px" width ="100" heigth ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
      
-  <img width ="65" heigth ="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <
   
   <img width="65" heigth ="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-  <img width="65" heigth ="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+ 
     
   <img width="150" heigth ="160" src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_445,h_250/f_auto,q_auto/v1656484625/hevo-learn/microsoft-power-bi-logo.png?_i=AA" />
  
