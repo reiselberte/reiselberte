@@ -11,12 +11,7 @@ Analista de Dados SQL e apaixonado por tecnologia. Atualmente estudando análise
   
   Abaixo seguem alguma tecnologiais que trabalho no meu dia-a-dia.
 
-<img margin-top="0px" width ="60" heigth ="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
-<img width="45" heigth ="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-<img width="100" heigth ="100" src="https://icons8.com.br/icon/13679/logo-java-coffee-cup" />  
-<img width="45" heigth ="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
-
- 
+###### JAVA, ORACLE DATABASE, GITLAB
    
   
 
